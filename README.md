@@ -250,17 +250,21 @@ Rename Windows 10 VM Hostname: <br/>
 <p align="center">  
 <img src="https://i.imgur.com/jma65hh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 <p align="center">
 Right click start button > System > Rename this PC (Advanced > Computer name (CLIENT1) > Member of Domain (mydomain.com) > Ok > Username (edang) > Password
 <br />
 <br />
 
+<p align="center">
+Logging on to User account that you created: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/W85K9WJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+CLIENT1 > sign out > EX: edang > Password
+<br />
+<br />
 
 
 
