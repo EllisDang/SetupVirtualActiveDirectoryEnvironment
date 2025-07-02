@@ -146,7 +146,7 @@ Create dedicated domain admin account: <br/>
 <img src="https://i.imgur.com/NW62b1v.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Start button > Windows Administrative Tools > Active Directory Users and Computers > Right click mydomain.com > New > Organizational Unit (_ADMINS) > Right click _ADMINS > New > User > Add your name > User login name (EX: a-edang) > Next > Password > Uncheck (User must change password at next logon) > Check (Password never expires) > Right Click User you just created > properties > Member Of > Add > Type (domain admins) > Check Names > Apply > Ok > Sign Out > Other User > (EX: a-edang)
+Start button > Windows Administrative Tools > Active Directory Users and Computers > Right click mydomain.com > New > Organizational Unit (_ADMINS) > Right click (_ADMINS) > New > User > Add your name > User login name (EX: a-edang) > Next > Password > Uncheck (User must change password at next logon) > Check (Password never expires) > Right Click User you just created > properties > Member Of > Add > Type (domain admins) > Check Names > Apply > Ok > Sign Out > Other User > (EX: a-edang)
 <br />
 <br />
 
