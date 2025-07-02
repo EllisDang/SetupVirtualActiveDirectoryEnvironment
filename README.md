@@ -10,7 +10,6 @@
 
 <h2>Project walk-through:</h2>
 
-<p align="center">
 Initial Setup: Downloading VirtualBox, Oracle VM VirtualBox Extension Pack, Server 2019 ISO, and Windows 10 ISO 64-bit <br/>
 
 VirtualBox: https://www.virtualbox.org/wiki/Downloads
