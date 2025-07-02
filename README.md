@@ -199,16 +199,16 @@ Create User using PowerShell: <br/>
 <img src="https://i.imgur.com/gY9U3qh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N4fKrht.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fBxLdKK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Server Manager > Configure this local server > IE Enhanced Sercurity Configuration > Turn Everything Off
+Server Manager > Configure this local server > IE Enhanced Sercurity Configuration > Turn Everything Off > Open Explorer > Paste Link (https://github.com/joshmadakor1/AD_PS/archive/master.zip) > Save as > Desktop > Drag File out to desktop > 
   
 <br />
 <br />
