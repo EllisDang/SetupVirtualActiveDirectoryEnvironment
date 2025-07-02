@@ -104,6 +104,52 @@ Click Internet Icon (Bottom Right) > Change adapter options > Rename Ethernet 1 
 <br />
 <br />
 
+<p align="center">
+Adding Active Directory: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/aiZyklk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/KxcByCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Server Manager > Add roles and features > Next > Active Directory Domain Services > Next > Install > Click Caution Flag (Top right) > Promote this server to a domain controller > Add new forest > Root domain name (mydomain.com) > Add password > Next > Install > Restart
+<br />
+<br />
+
+<p align="center">
+Create dedicated domain admin account: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/Db0AYFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/AO5CgmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/ZmF8rld.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/pbPeR0g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/w6Onv8h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/RCOx68A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/RlbOkLx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/NW62b1v.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Start button > Windows Administrative Tools > Active Directory Users and Computers > Right click mydomain.com > New > Organizational Unit (_ADMINS) > Right click _ADMINS > New > User > Add your name > User login name (EX: a-edang) > Next > Password > Uncheck (User must change password at next logon) > Check (Password never expires) > Right Click User you just created > properties > Member Of > Add > Type (domain admins) > Check Names > Apply > Ok > Sign Out > Other User > (EX: a-edang)
+<br />
+<br />
+
 
 
 
