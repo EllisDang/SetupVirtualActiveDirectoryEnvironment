@@ -36,7 +36,7 @@ Changing Settings: <br/>
 <img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i0ktv3N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
 <img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
