@@ -17,7 +17,9 @@ Windows 10 ISO 64-bit: https://www.microsoft.com/en-us/software-download/windows
 <p align="center">
 Creating Domain Controller VM: <br/>
 <img src="https://i.imgur.com/aalva1C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/a/8RcJ5wc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://imgur.com/FSVgC9n" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
 New > Name (DC) > Version (Other Windows 64-bit) > Base Memory (2048 MB) > Processors (4) > Next > Finish
