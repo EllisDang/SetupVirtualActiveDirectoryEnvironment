@@ -170,13 +170,13 @@ DHCP server <br/>
 <img src="https://i.imgur.com/yYXAAXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0Vk6RIE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4qGmyhK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/onTFJa4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
