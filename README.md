@@ -17,3 +17,10 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 Server 2019 ISO: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
 Windows 10 ISO 64-bit: https://www.microsoft.com/en-us/software-download/windows10
+
+<p align="center">
+Creating Domain Controller VM: <br/>
+<img src="https://imgur.com/a/efDh7If" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New > Name (DC) > Version (Other Windows 64-bit) > 
+<br />
+<br />
