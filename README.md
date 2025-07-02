@@ -44,12 +44,18 @@ Changing Settings: <br/>
 <p align="center">  
 <img src="https://i.imgur.com/YpKxiYU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<p align="center">  
+<img src="https://i.imgur.com/YoCs2ju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/UmgQyLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
 
 
 <p align="center">
-Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above
+Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above > Windows Server 2019 Standard Evaluation (Desktop expericience) > Custom Install
 <br />
 <br />
