@@ -100,7 +100,7 @@ Setting up Domain Controller IP Address and Renaming PC: <br/>
 <img src="https://i.imgur.com/PgIf9Gv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Click Internet Icon (Bottom Right) > Change adapter options > Rename Ethernet 1 (Internet) and Ethernet 2 (Internal) > click on Internal (Properties) > IPv4 > Use the following IP address IP address (172.16.0.1) > Subnet mask (255.255.255.0) > Preferred DNS Server (127.0.0.1) > Right click start button (system) > Rename PC (DC)
+Click Internet Icon (Bottom Right) > Change adapter options > Rename Ethernet 1 (Internet) and Ethernet 2 (Internal) > click on Internal (Properties) > IPv4 > Use the following IP address IP address (172.16.0.1) > Subnet mask (255.255.255.0) > Preferred DNS Server (127.0.0.1) > Right click start button (System) > Rename PC (DC) > Restart PC
 <br />
 <br />
 
