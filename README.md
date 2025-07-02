@@ -21,6 +21,10 @@ Creating Domain Controller VM: <br/>
 <p align="center">  
 <img src="https://i.imgur.com/FSVgC9n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<p align="center">  
+<img src="https://i.imgur.com/vndW60M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <p align="center">
 New > Name (DC) > Version (Other Windows 64-bit) > Base Memory (2048 MB) > Processors (4) > Next > Finish
 <br />
