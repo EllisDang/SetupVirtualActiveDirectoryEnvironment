@@ -50,12 +50,30 @@ Changing Settings: <br/>
 <p align="center">  
 <img src="https://i.imgur.com/UmgQyLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-
-
-
-
 <p align="center">
 Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above > Windows Server 2019 Standard Evaluation (Desktop expericience) > Custom Install > Next
 <br />
 <br />
+
+<p align="center">
+Install VM guest additions: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/xUjIMTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/YCYVcdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/FnGNHdS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Devices (up top) > Insert Guest Addition CD Image > Open File Explorer > This PC > CD Drive (D:) VirtualBox Guest Additons > VBoxWindowsAdditions-amd64 > Next All then Install > Manually reboot later > Shut Down VM
+<br />
+<br />
+
+
+
+
+
+
