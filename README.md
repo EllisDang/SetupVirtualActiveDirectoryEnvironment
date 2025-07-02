@@ -16,7 +16,7 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Server 2019 ISO: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
-Windows 10 ISO 64-bit: https://www.microsoft.com/en-us/software-download/windows10
+Windows 10 ISO 64-bit: https://www.microsoft.com/en-us/software-download/windows10 </h2>
 
 <p align="center">
 Creating Domain Controller VM: <br/>
