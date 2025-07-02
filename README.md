@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b> 
 
-<h2>Initial Setup: Downloading VirtualBox, Oracle VM VirtualBox Extension Pack, Server 2019 ISO, and Windows 10 ISO 64-bit</h2>
+<h2>Initial Setup: Downloading Oracle VM VirtualBox, Oracle VM VirtualBox Extension Pack, Server 2019 ISO, and Windows 10 ISO 64-bit</h2>
 
 VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
@@ -205,11 +205,59 @@ Create User using PowerShell: <br/>
 <img src="https://i.imgur.com/fBxLdKK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
+<img src="https://i.imgur.com/cEvW8f9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/eHUGCWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/cqs7CgB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/J8b5ojv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Server Manager > Configure this local server > IE Enhanced Sercurity Configuration > Turn Everything Off > Open Explorer > Paste Link (https://github.com/joshmadakor1/AD_PS/archive/master.zip) > Save as > Desktop > Drag File out to desktop > Open AD-PS-master > Names > add you name > Start button > Windows PowerShell > Right click Windows Power Shell ISE > More > run as admin > Paste power shell script from the folder > Set-ExecutionPolicy Unrestricted > Yes to all > cd C:\users\a-edang\desktop\AD-PS-master > Run script
+<br />
+<br />
+
+<p align="center">
+Create Windows 10 VM: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/18LnvFi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/VHtue0N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/G1UC7yj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/W0ea3ng.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Oracle VM VirtualBox Manager > Name (CLIENT1) > Version (Windows 10 (64-bit) > Settings > System > Memory (4096 MB) > Processor (4) Advanced > Change both to "Bidirectional" > Network (Internal Network) > Start VM > Add Windows 10 ISO Downloaded above > I don't have product key > Windows 10 Pro > Custom install > Next > I don't have internet > Name (user) > next > command line > check connection by typing "Ipconfig" 
+<br />
+<br />
+
+<p align="center">
+Rename Windows 10 VM Hostname: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/DrAOYXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/jma65hh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Server Manager > Configure this local server > IE Enhanced Sercurity Configuration > Turn Everything Off > Open Explorer > Paste Link (https://github.com/joshmadakor1/AD_PS/archive/master.zip) > Save as > Desktop > Drag File out to desktop > 
-  
+Right click start button > System > Rename this PC (Advanced > Computer name (CLIENT1) > Member of Domain (mydomain.com) > Ok > Username (edang) > Password
 <br />
 <br />
 
