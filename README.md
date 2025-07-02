@@ -56,6 +56,6 @@ Changing Settings: <br/>
 
 
 <p align="center">
-Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above > Windows Server 2019 Standard Evaluation (Desktop expericience) > Custom Install
+Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above > Windows Server 2019 Standard Evaluation (Desktop expericience) > Custom Install > Next
 <br />
 <br />
