@@ -179,13 +179,37 @@ DHCP server <br/>
 <img src="https://i.imgur.com/onTFJa4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
+<img src="https://i.imgur.com/7mQfagH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Add roles and features > Next > DHCP Server > Next > Tools > DHCP > Expand (dc.mydomain) > Righ click IPv4 > New Scope > Name (172.16.0.100-200) > Next > Start IP address (172.16.0.100) > End IP address (172.16.0.200) > Length (24) > Subnet Mask (255.255.255.0) Next > Router (default Gateway) (172.16.0.1) > Add > Next > Finish
+<br />
+<br />
+
+<p align="center">
+Create User using PowerShell: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/kAuOCYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/3BdvaxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<p align="center">  
+<img src="https://i.imgur.com/gY9U3qh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Add roles and features > Next > DHCP Server > Next > Tools > DHCP > Expand (dc.mydomain) > Righ click IPv4 > New Scope > Name (172.16.0.100-200) > Next > Start IP address (172.16.0.100) > End IP address (172.16.0.200) > Length (24) > Subnet Mask (255.255.255.0) NExt 
+Server Manager > Configure this local server > IE Enhanced Sercurity Configuration > Turn Everything Off
+  
 <br />
 <br />
 
