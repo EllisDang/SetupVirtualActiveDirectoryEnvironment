@@ -42,7 +42,7 @@ Changing Settings: <br/>
 <img src="https://i.imgur.com/TMp0Znp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">  
-<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YpKxiYU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
