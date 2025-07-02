@@ -24,11 +24,32 @@ Creating Domain Controller VM: <br/>
 <p align="center">  
 <img src="https://i.imgur.com/vndW60M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
 <p align="center">
 New > Name (DC) > Version (Other Windows 64-bit) > Base Memory (2048 MB) > Processors (4) > Next > Finish
 <br />
 <br />
 
 <p align="center">
-Creating Domain Controller VM: <br/>
+Changing Settings: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/gTSzoth.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+<p align="center">
+Expert > Advanced > Change both to "Bidirectional" > Network (Adapter 1 NAT) (Adapter 2 Internal Network) > Start VM > Add Server 2019 ISO Downloaded above
+<br />
+<br />
