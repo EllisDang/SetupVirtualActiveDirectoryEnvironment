@@ -151,6 +151,45 @@ Start button > Windows Administrative Tools > Active Directory Users and Compute
 <br />
 
 
+<p align="center">
+Installing RAS/NAT: <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/KQmzmxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="https://i.imgur.com/KQmzmxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Add roles and features > Next > Remote Access > Routing > Next > Install > Tools > Routing and Remote access > Right clic DC (local) > Confidure and Enable Routing and Remote Access > Network Address Translation (NAT) > Redo steps if Public interface doesn't pop up > Select "INTERNET" > Finish
+
+<p align="center">
+DHCP server <br/>
+
+<p align="center">  
+<img src="https://i.imgur.com/yYXAAXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">  
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Add roles and features > Next > DHCP Server > Next > Tools > DHCP > Expand (dc.mydomain) > Righ click IPv4 > New Scope > Name (172.16.0.100-200) > Next > Start IP address (172.16.0.100) > End IP address (172.16.0.200) > Length (24) > Subnet Mask (255.255.255.0) NExt 
+<br />
+<br />
+
+
 
 
 
